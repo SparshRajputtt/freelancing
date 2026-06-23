@@ -600,7 +600,7 @@ function WhyChooseUs() {
         <Reveal>
           <div className="relative aspect-[4/5] overflow-hidden rounded-2xl">
             <img
-              src="https://images.unsplash.com/photo-1556909212-d5b65500a873?q=80&w=1200&auto=format&fit=crop"
+              src="/counter-top.png"
               alt="Cleaning professional carefully wiping a luxury kitchen countertop"
               className="h-full w-full object-cover"
             />

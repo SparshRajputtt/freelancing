@@ -25,9 +25,9 @@ import {
 const BUSINESS = {
   name: "4M Home Services",
   legalName: "4M Home Services Inc.",
-  phone: "(437) 555‑0142", // placeholder — replace with real number
+  phone: "(905) 783-0982", // placeholder — replace with real number
   phoneRaw: "+14375550142",
-  email: "hello@4mhomeservices.ca", // placeholder — replace with real inbox
+  email: "info@4mhomeservices.ca", // placeholder — replace with real inbox
   instagram: "@4m_cleaning",
   instagramUrl: "https://instagram.com/4m_cleaning",
   city: "Toronto, Ontario",
@@ -35,10 +35,10 @@ const BUSINESS = {
 
 // Replace with the real founder photo, name & story.
 const FOUNDER = {
-  name: "Founder Name",
-  role: "Founder & Lead Cleaner",
+  name: "Sofiia Matviieva",
+  role: "Founder & CEO",
   photo:
-    "https://images.unsplash.com/photo-1556157382-97eda2d62296?q=80&w=1200&auto=format&fit=crop",
+    "/owner.png",
   quote:
     "I don't send anyone into a home I wouldn't trust with my own.",
   bio: [
